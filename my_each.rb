@@ -4,3 +4,5 @@ def my_each(number)
   yield(number[i])
   i += 1
 end
+number
+end
